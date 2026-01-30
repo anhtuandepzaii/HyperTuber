@@ -3,19 +3,17 @@
 Repository for the HyperTuber application.
 
 ## 📌 Giới thiệu
-**Hyper Tuber** là phiên bản được thiết kế và phát triển lại từ **YouTube Morphe**, hướng đến trải nghiệm hiện đại, tối ưu và thân thiện hơn cho người dùng Android.
+- **Hyper Tuber** là phiên bản được thiết kế và phát triển lại từ **YouTube Morphe**, hướng đến trải nghiệm hiện đại, tối ưu và thân thiện hơn cho người dùng Android.
 
 ---
 
 ## ✨ Tính năng MOD
-- 🔹 Hyper Tuber được phát triển dựa trên **YouTube Morphe**
-- 🔹 YouTube Morphe là dự án **mã nguồn mở**, được xây dựng để thay thế **RVX**
-- 🔹 Tập trung tạo ra các bản vá hiện đại, hợp lý hóa cho những ứng dụng Android phổ biến
-- 🔹 Phát triển dựa trên **đóng góp và phản hồi từ cộng đồng**
-- 🔹 Mở khóa các **tính năng cao cấp của Premium**
-- 🔹 Hỗ trợ **phát video trong nền** và nhiều tính năng nâng cao khác
-- 🔹 **Hoàn toàn miễn phí**, không quảng cáo
-
+- Hyper Tuber được phát triển dựa trên **YouTube Morphe**
+- **YouTube Morphe** là một dự án mới thay thế **RVX**, mã nguồn mở tập trung vào việc tạo ra một bản vá hiện đại, hợp lý hóa cho các ứng dụng Android phổ biến
+- Mã nguồn mở là cốt lõi, Morphe phát triển dựa trên phản hồi và đóng góp của cộng đồng để thúc đẩy sự đổi mới trong tương lai
+- Mở khóa các tính năng cao cấp của Premium
+- Khả năng phát trong nền và nhiều tính năng hơn thế nữa
+- Hoàn toàn miễn phí, không có quảng cáo.
 ---
 
 ## ⚙️ Cài đặt
